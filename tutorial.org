@@ -1,0 +1,5 @@
+#+TITLE: Why does this tutorial level matter?
+
+Plain text is the best format for archival purposes. It can be read with simple tools such as ~cat~ and ~grep~, and changes can be tracked easily with ~git~. These tools have a learning curve if you have not seen them before, but as I have been using Linux for 15+ years, all of this is second nature to me.
+
+Also while Obsidian looks good, I don't see what it does that [[https://orgmode.org][Org Mode]] doesn't, apart from using all of your available memory because Electron.
